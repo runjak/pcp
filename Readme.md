@@ -1,6 +1,6 @@
 # Quick summary of the PCP
 
-The [Post correspondence problem](https://en.wikipedia.org/wiki/Post_correspondence_problem) is an [undecidable](https://en.wikipedia.org/wiki/Undecidable_problem [decision problem](https://en.wikipedia.org/wiki/Decision_problem).
+The [Post correspondence problem](https://en.wikipedia.org/wiki/Post_correspondence_problem) is an [undecidable](https://en.wikipedia.org/wiki/Undecidable_problem) [decision problem](https://en.wikipedia.org/wiki/Decision_problem).
 In June 2017 a friend invited me to have a look at it together and maybe tinker with it a little.
 This document summarizes part of our session.
 
